@@ -1,0 +1,9 @@
+{
+    "a_sensor" : [12, 13, 17, 19, 17, 16, 17, 16],
+    "b_sensor" : [26, 24, 32, 35, 16, 25, 32, 31],
+    "db_sensorArray" : [{
+        "led_1" : true,
+        "led_2" : true,
+        "led_3" : false
+    }]
+}
